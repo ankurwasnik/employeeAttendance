@@ -5,11 +5,11 @@
 
 ##Output
 1. Absent case scenario
-[./public/images/absent/1.png]
-[./public/images/absent/2.png]
-[./public/images/absent/3.png]
-[./public/images/absent/4.png]
-[./public/images/absent/5.png]
+![./public/images/absent/1.png](./public/images/absent/1.png)
+![./public/images/absent/2.png]
+![./public/images/absent/3.png]
+![./public/images/absent/4.png]
+![./public/images/absent/5.png]
 2. Half day scenario
 [./public/images/halfday/1.png]
 3. Present case scenario
