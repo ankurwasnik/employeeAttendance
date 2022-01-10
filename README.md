@@ -32,6 +32,7 @@ We check the presentee of employee on blockchain as computed by smart contract.\
 ![Employee enters the company](./public/images/halfday/4.png)
 From the above image, we can see that *isPresent=1* which means that employee is *HALFDAY*.
 
+***
 <!-- Third case scenario -->
 ### 3. Present case scenario
 #### Employee with RFID 300 before entering the company
@@ -44,11 +45,15 @@ The employee leaves the company at timestamp 1641833100 unix style. We make a tr
 ![Employee leaves the company](./public/images/present/3.png)
 #### Smart contract computation result 
 We check the presentee of employee on blockchain as computed by smart contract.\
-![Employee enters the company](./public/images/present/4.png)
+![Employee enters the company](./public/images/present/4.png)\
 From the above image, we can see that *isPresent=2* which means that employee is *PRESENT*.
 
 ***
-##Resources
+## Resources
 1. (UNIX Timestamp)[https://www.unixtimestamp.com/]
 2. (Remix IDE)[https://remix.ethereum.org/]
-# employeeAttendance
+
+***
+*Author      : Ankur Wasnik
+*Subject     : Blockchain Technology
+*Last Edited : 10th Jan 2022
