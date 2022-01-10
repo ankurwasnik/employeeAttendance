@@ -57,6 +57,6 @@ From the above image, we can see that *isPresent=2* which means that employee is
 2. (Remix IDE)[https://remix.ethereum.org/]
 
 ***
-*Author      : Ankur Wasnik
-*Subject     : Blockchain Technology
-*Last Edited : 10th Jan 2022
+*Author      : Ankur Wasnik\
+*Subject     : Blockchain Technology\
+*Last Edited : 10th Jan 2022\
